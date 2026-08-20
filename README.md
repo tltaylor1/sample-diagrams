@@ -8,7 +8,7 @@ of design and documentation work.
 > maintained or updated, and none represents any specific, current, or
 > production environment. Addresses and names are illustrative.
 
-Drawn by hand in Microsoft Visio.
+Drawn by hand in Microsoft Visio, or Draw.io.
 
 -------------------------------------------------------------------------------
 
