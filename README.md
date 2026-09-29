@@ -1,5 +1,7 @@
 # Sample diagrams
 
+## What this is
+
 Hand-drawn architecture and process diagrams by Terry Taylor, kept as examples
 of design and documentation work.
 
@@ -8,7 +10,10 @@ of design and documentation work.
 > maintained or updated, and none represents any specific, current, or
 > production environment. Addresses and names are illustrative.
 
-Drawn by hand in Microsoft Visio, or Draw.io.
+Drawn by hand in Microsoft Visio, or Draw.io. Three diagrams: a Microsoft
+Sentinel logical architecture, a user provisioning process, and a support
+process. Each is dated and scoped by the note above, so nothing here reads
+as a claim about a system that is running today.
 
 -------------------------------------------------------------------------------
 
